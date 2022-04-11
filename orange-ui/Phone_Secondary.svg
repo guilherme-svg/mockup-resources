@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="140"
+   height="280"
+   viewBox="0 0 37.041666 74.083335"
+   version="1.1"
+   id="svg3222"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Phone_Secondary.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3224"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="1.201903"
+     inkscape:cx="34.112571"
+     inkscape:cy="102.33771"
+     inkscape:window-width="1280"
+     inkscape:window-height="705"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3219">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2846-3"
+       x="-0.043974562"
+       y="-0.020599197"
+       width="1.0879491"
+       height="1.0411984">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.58924509"
+         id="feGaussianBlur2848-4" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient27077"
+       id="linearGradient27079"
+       x1="34.778843"
+       y1="131.98126"
+       x2="34.778843"
+       y2="220.26602"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(3.9658203e-6,-292.17261)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient27077">
+      <stop
+         style="stop-color:#e43d18;stop-opacity:1;"
+         offset="0"
+         id="stop27073" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop27075" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g40614"
+       transform="translate(-14.366949,-109.67702)">
+      <rect
+         id="rect24106"
+         width="32.159233"
+         height="68.652588"
+         x="16.11857"
+         y="113.3475"
+         style="mix-blend-mode:normal;fill:#b3b3b3;stroke-width:0.327683;filter:url(#filter2846-3)"
+         ry="4.5716562" />
+      <rect
+         id="rect24108"
+         width="32.159233"
+         height="68.652588"
+         x="18.235241"
+         y="-180.4126"
+         style="fill:url(#linearGradient27079);fill-opacity:1;stroke-width:0.327683"
+         ry="4.5716562"
+         transform="scale(1,-1)" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="115"
+   height="115"
+   viewBox="0 0 30.427083 30.427084"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="tmpdxxus773"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.29669617"
+     inkscape:cx="-57.297673"
+     inkscape:cy="144.92941"
+     inkscape:window-width="1280"
+     inkscape:window-height="705"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     units="px" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="Square_Container"
+     style="display:inline">
+    <g
+       id="g2678"
+       transform="translate(-32.497993,5.058601)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.209906"
+         id="rect12785"
+         width="26.458334"
+         height="26.458334"
+         x="34.874718"
+         y="-3.5467305"
+         ry="2.3246033" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.09317px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.0773295"
+         x="47.814358"
+         y="6.9263644"
+         id="text1993"><tspan
+           sodipodi:role="line"
+           id="tspan1989"
+           style="text-align:center;text-anchor:middle;fill:#808080;fill-opacity:1;stroke-width:0.0773295"
+           x="47.814358"
+           y="6.9263644">Square</tspan><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;fill:#808080;fill-opacity:1;stroke-width:0.0773295"
+           x="47.814358"
+           y="10.792827"
+           id="tspan1991">Container</tspan></text>
+    </g>
+  </g>
+</svg>

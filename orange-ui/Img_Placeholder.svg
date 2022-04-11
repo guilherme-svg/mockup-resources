@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="115"
+   height="115"
+   viewBox="0 0 30.427083 30.427084"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="tmp4cgar_sl"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.29669617"
+     inkscape:cx="-57.297673"
+     inkscape:cy="144.92941"
+     inkscape:window-width="1280"
+     inkscape:window-height="705"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     units="px" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Img_Placeholder"
+     style="display:inline">
+    <g
+       id="g12925"
+       transform="translate(-130.47193,-26.723496)">
+      <circle
+         style="opacity:1;fill:#808080;fill-opacity:1;stroke-width:0.300841"
+         id="path9901"
+         cx="146.13165"
+         cy="41.572178"
+         r="10.583333" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.1172px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0529301"
+         x="146.32909"
+         y="40.61932"
+         id="text10601"><tspan
+           sodipodi:role="line"
+           id="tspan10599"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.0529301"
+           x="146.32909"
+           y="40.61932">Img</tspan><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.0529301"
+           x="146.32909"
+           y="43.26582"
+           id="tspan10603">Placeholder</tspan></text>
+    </g>
+  </g>
+</svg>

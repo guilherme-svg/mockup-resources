@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="140"
+   height="280"
+   viewBox="0 0 37.041666 74.083335"
+   version="1.1"
+   id="svg3222"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Phone_Primary.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3224"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.42493687"
+     inkscape:cx="-4.7065815"
+     inkscape:cy="268.27514"
+     inkscape:window-width="1280"
+     inkscape:window-height="705"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3219">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2846"
+       x="-0.043974562"
+       y="-0.020599197"
+       width="1.0879491"
+       height="1.0411984">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.58924509"
+         id="feGaussianBlur2848" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3284"
+       transform="translate(-84.056604,-72.942531)">
+      <rect
+         id="rect1396"
+         width="32.159233"
+         height="68.652588"
+         x="85.758026"
+         y="75.474075"
+         style="mix-blend-mode:normal;fill:#b3b3b3;stroke-width:0.327683;filter:url(#filter2846)"
+         ry="4.5716562" />
+      <rect
+         id="rect45"
+         width="32.159233"
+         height="68.652588"
+         x="87.874695"
+         y="73.886581"
+         style="fill:#e6e6e6;stroke-width:0.327683"
+         ry="4.5716562" />
+    </g>
+  </g>
+</svg>

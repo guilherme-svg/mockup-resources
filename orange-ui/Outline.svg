@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="115"
+   height="115"
+   viewBox="0 0 30.427083 30.427084"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="tmp1zfq6xrz"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.29669617"
+     inkscape:cx="-57.297673"
+     inkscape:cy="144.92941"
+     inkscape:window-width="1280"
+     inkscape:window-height="705"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     units="px" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="Outline"
+     style="display:inline">
+    <g
+       id="g46965"
+       transform="translate(-82.54808,-144.70871)">
+      <path
+         style="color:#000000;fill:#e43d18;-inkscape-stroke:none"
+         d="m 90.322266,155.98828 c -1.902266,0 -3.4375,1.53524 -3.4375,3.4375 0,1.90227 1.535235,3.4375 3.4375,3.4375 h 17.197264 c 1.90227,0 3.4375,-1.53523 3.4375,-3.4375 0,-1.90226 -1.53523,-3.4375 -3.4375,-3.4375 z m 0,0.25977 h 17.197264 c 1.76221,0 3.17774,1.41552 3.17774,3.17773 0,1.76221 -1.41553,3.17578 -3.17774,3.17578 H 90.322266 c -1.76221,0 -3.177735,-1.41357 -3.177735,-3.17578 0,-1.76221 1.415525,-3.17773 3.177735,-3.17773 z"
+         id="rect41198" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.60665px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e43d18;fill-opacity:1;stroke:none;stroke-width:0.0651665"
+         x="96.837082"
+         y="156.37521"
+         id="text41202"
+         transform="scale(0.97549594,1.0251196)"><tspan
+           sodipodi:role="line"
+           id="tspan41200"
+           style="fill:#e43d18;fill-opacity:1;stroke-width:0.0651665"
+           x="96.837082"
+           y="156.37521">Outline</tspan></text>
+    </g>
+  </g>
+</svg>
